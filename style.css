@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+  margin: 50% auto;
+    display: flex;
+    width: 90%;
+}
