@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+hr{
+    
+}
 .container{
     margin: 50% auto;
     display: flex;
@@ -42,5 +45,5 @@ main{
     margin: 15px 0;
 }
 .person-details li i{
-    margin: 15px 0;
+    margin: 0 10px;
 }
