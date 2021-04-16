@@ -5,7 +5,9 @@
 }
 
 hr{
-    
+    width: 90%;
+    margin: auto;
+    color: gray; 
 }
 .container{
     margin: 50% auto;
