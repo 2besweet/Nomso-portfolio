@@ -10,8 +10,10 @@
     width: 90%;
 }
 
-aside{
+aside, main section{
     background-color: white;
     border: 1px solid gray;
     margin-right: 15px;
+    flex: 3;
+    
 }
