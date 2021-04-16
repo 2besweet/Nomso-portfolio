@@ -5,7 +5,13 @@
 }
 
 .container{
-  margin: 50% auto;
+    margin: 50% auto;
     display: flex;
     width: 90%;
+}
+
+aside{
+    background-color: white;
+    border: 1px solid gray;
+    margin-right: 15px;
 }
