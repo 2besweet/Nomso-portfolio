@@ -25,3 +25,16 @@ main{
     width: 100%;
     height: auto;
 }
+
+.person-name{
+    color: #5c5c5c;
+    font-size: 2vw;
+    margin: 5px;
+}
+
+.person-details{
+    font-size: 1.2vw;
+    padding: 25px;
+    list-style: none;
+    color: #5c5c5c;
+}
