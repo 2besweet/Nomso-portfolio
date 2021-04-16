@@ -17,3 +17,11 @@ aside, main section{
     flex: 3;
     
 }
+main{
+    flex: 7;
+}
+
+.personalimage{
+    width: 100%;
+    height: auto;
+}
