@@ -36,5 +36,11 @@ main{
     font-size: 1.2vw;
     padding: 25px;
     list-style: none;
-    color: #5c5c5c;
+    color: #009688;
+}
+.person-details li{
+    margin: 15px 0;
+}
+.person-details li i{
+    margin: 15px 0;
 }
