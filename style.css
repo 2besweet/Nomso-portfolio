@@ -80,3 +80,7 @@ main{
 .p-40{width: 40%;}
 .p-100{width: 100%;}
 .p-60{width: 60%;}
+
+.progress h4{
+    color: #fff;
+}
